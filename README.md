@@ -19,7 +19,7 @@ react-chat-app-chi-sand.vercel.app
 
 
 # Lessons Learned
-I have learned about useState, useEffect, state management tool like Context API,SCSS, and the Firebase.
+I have learned about useState, useEffect, state management tool like Context API, SCSS , and the Firebase.
 
 
 
