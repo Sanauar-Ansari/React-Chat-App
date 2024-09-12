@@ -1,7 +1,8 @@
 # Project Summary
 The Real-time Chat Application is a responsive and interactive web-based chat platform developed using React and JavaScript. This app allows users to communicate in real-time through seamless messaging features. Bidirectional communication between users, ensuring messages are instantly delivered and received.
 
-# Wensite Url
+# Website Url
+react-chat-app-chi-sand.vercel.app
 
 
 # Features
