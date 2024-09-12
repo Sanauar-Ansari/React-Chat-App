@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# Project Summary
+The Real-time Chat Application is a responsive and interactive web-based chat platform developed using React and JavaScript. This app allows users to communicate in real-time through seamless messaging features. Bidirectional communication between users, ensuring messages are instantly delivered and received.
 
-A beautiful UI created by React component.
-
-## Features
+# Features
 
 1) Left sidebar: Show all the contact list with the last message which is created by registering into this App.
 
